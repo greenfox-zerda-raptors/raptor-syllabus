@@ -8,7 +8,7 @@ The mentors are Aze, Misi & Eric.
 
 
 ## Important Links
-- [Trello](https://trello.com/zerdaraptors) - site to track project tasks
+- [Trello](https://trello.com/zerda1) - site to track project tasks
 - [Slack](https://greenfox-zerda.slack.com) - to communicate ideas on channels
 - [Github - GreenFox](https://github.com/greenfox-academy) - overall tracking of our course
 - [Github - Zerda - Raptors](https://github.com/greenfox-zerda-raptors)
