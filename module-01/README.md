@@ -6,6 +6,9 @@
 - Team building exercise
 - [Command-line, GIT](3-command-line)
 - [HTML, CSS](4-html-css)
+- [CSS Deeper](https://github.com/greenfox-academy/teaching-materials/tree/master/tools-and-coding/css-deeper)
+
+## Weekly project
 - [Practical: Create your CV in HTML](https://github.com/greenfox-academy/teaching-materials/tree/master/tools-and-coding/project-cv)
 
 ## Knowledge & Skills
