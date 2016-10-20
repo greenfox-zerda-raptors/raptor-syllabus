@@ -23,7 +23,7 @@ __NOTE!__ Pay special attention to determine the purpose of these tags: `<header
 
 
 ### CSS
- - https://www.youtube.com/watch?v=4BEyFVufmM8 
+ - https://www.youtube.com/watch?v=4BEyFVufmM8
  - https://www.youtube.com/watch?v=iqTgros3FTc
  - https://www.youtube.com/watch?v=1CqHws4WZ-M
  - https://www.youtube.com/watch?v=f7c7bTrqXic
@@ -39,20 +39,20 @@ __NOTE!__ Pay special attention to determine the purpose of these tags: `<header
  - https://www.youtube.com/watch?v=0Sm7MkZXT-8
  - https://www.youtube.com/watch?v=sdn5p4kf91c
 
-### Optional 
+### Optional
 *If you've got time, consider the following:*
  - https://developer.mozilla.org/en-US/docs/Web/HTTP
  - https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics
  - https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics
  - http://alistapart.com/article/grokwebstandards
 
-## Assignment Review 
+## Assignment Review
  - Purpose of: `<html>`, `<head>`, `<link>`, `<script>`,`<body>`, `<meta>`, `<title>`, `<h1>` - `<h6>`, `<p>`, `<a>`, `<img>`, `<article>`, `<aside>`, `<strong>`, `<em>`, `<span>`, `<div>`, `<header>`, `<main>`, `<footer>`, `<section>`, `<ul>`, `<ol>`, `<li>`, `<dd>`, `<dt>`, `<pre>`
  - class
  - id
  - Descendant selector
- - Conflict 
- - Inheritance 
+ - Conflict
+ - Inheritance
  - Specificity
  - The Box model
  - Shorthand
@@ -106,11 +106,5 @@ Font size: 18 pixels
 Duck: ![duck](duck.png)
 
 ## Project work
-[CV template](https://invis.io/X575YEGVU#/155416515_Greenfox-Anakins-Cv) to follow
-Try to make a build as similar as possible to the design.
-
-If you are ready:
- - create a copy
- - Modify the content to your CV
- - Build your own design
- - other [CV ideas](https://www.pinterest.com/hugabuga/cv-inspiration/) for the brave
+If you are finished you can continue with the project work:
+[Project CV](https://github.com/greenfox-academy/teaching-materials/tree/master/tools-and-coding/project-cv)

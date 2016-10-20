@@ -6,7 +6,7 @@
 - Team building exercise
 - [Command-line, GIT](3-command-line)
 - [HTML, CSS](4-html-css)
-- [Practical: Create your CV in HTML](5-cv)
+- [Practical: Create your CV in HTML](https://github.com/greenfox-academy/teaching-materials/tree/master/tools-and-coding/project-cv)
 
 ## Knowledge & Skills
 *List the competences (knowledge and/or skills) that the participants are expected to master in this module.*
