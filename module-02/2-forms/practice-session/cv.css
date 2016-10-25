@@ -1,0 +1,11 @@
+header {
+  background-image: url('http://cdn4.thr.com/sites/default/files/imagecache/scale_crop_768_433/2015/02/hayden_christensen.jpg');
+  background-color: #555555;
+  background-blend-mode: lighten;
+  height: 300px;
+  display: flex;
+}
+
+h1 {
+  margin-top: 250px;
+}

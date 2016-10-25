@@ -1,0 +1,32 @@
+.box {
+  box-sizing: border-box;
+  width: 370px;
+  padding: 0 30px 40px;
+  text-align: justify;
+}
+
+.img-1, .img-2 {
+  margin: 10px;
+}
+
+.img-1 {
+  float: left;
+}
+
+.img-2 {
+  float: right;
+}
+
+.first-lorem, .second-lorem {
+  border-bottom: 2px solid;
+  padding-bottom: 20px;
+}
+
+.overbox {
+  border: 2px solid red;
+  font-size: 23px;
+  position: fixed;
+  top: 200px;
+  left: 140px;
+  background-color: white;
+}
