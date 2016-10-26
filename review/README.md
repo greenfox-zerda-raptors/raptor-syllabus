@@ -10,6 +10,6 @@
 ![Commits](commits.png)
 
 ## Click on a commit
-![lines](lines.png)
+![lines](line.png)
 
 ## Here you can click on a line and a comment form will pop up
