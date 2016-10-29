@@ -6,7 +6,7 @@ Become familiar with the typical components of a programming language, using Jav
 __As this is a short week, we spill over into next week and only have 4 days in this module.__
 
 ## Overview of Days in this Module
-- [Java Environment &amp; Basic Constructs](m03d1-expressions-controlflow)
+- [Java Environment &amp; Basic Constructs](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/1-installing-basics)
 - [Arrays, Functions and Debugging &amp; Exceptions](m03d2-arrays-collections-functions)
 - [ArrayList, LinkedLists, HashMap;  Iterators, Foreach](m03d3)
 - [Stringbuilder, Conversion & Casting; Functional Overloading](m03d4)
@@ -29,5 +29,5 @@ The participants are expected to achieve these competences (knowledge and/or ski
 
 ## Demo (for end of the module)
 By the end of this module, you will be expected to be conversant in the core concepts found in programming (variables, types, loops, expressions, control & functions).
- - Creating simple algorithms as searching palindromes in a string, 
+ - Creating simple algorithms as searching palindromes in a string,
  - Show understanding of variables, conditionals, loops and the other basic elements of a programming language.
