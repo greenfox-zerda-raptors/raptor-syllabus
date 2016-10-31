@@ -29,16 +29,17 @@ Lastly we show how you can extend a program to use external code (or objects &am
 ### Optional
 | Link | Comment| Time |
 |:---- |:------ |-----:|
-|http://commons.apache.org/proper/commons-lang/download_lang.cgi| What is "commons-lang"||
-|https://www.jetbrains.com/help/idea/2016.2/configuring-project-and-global-libraries.html#lib_add_to_module_dependencies|How to add in a library||
-|https://www.jetbrains.com/help/idea/2016.2/downloading-libraries-from-maven-repositories.html| Using Maven||
-|https://www.youtube.com/watch?v=EWj60p8esD0|Exceptions: Try/Catch (Bana.07).  This is referenced elsewhere though we will cover it later. |15:42|
-|https://www.google.hu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwicjbnV_tTPAhVBDsAKHfvyBjsQFggxMAQ&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.sololearn.java%26hl%3Den&usg=AFQjCNFNXrlHnGw_HpQSbCy7h6QrdCiwxw&sig2=ZZL9MFAHIdpxd5cgomvf8Q|Consider a smartphone app for practicing on the go (Sololearn Java)||
+|[The commons-lang library](http://commons.apache.org/proper/commons-lang/download_lang.cgi)| Explanation of this *add-in*||
+|[Jetbrains - list of steps](https://www.jetbrains.com/help/idea/2016.2/configuring-project-and-global-libraries.html#lib_add_to_module_dependencies)|How to add in a library||
+|[Jetbrains - downloading libraries](https://www.jetbrains.com/help/idea/2016.2/downloading-libraries-from-maven-repositories.html)| Using Maven||
+|[Bana.07 - Exceptions, Try, Catch](https://www.youtube.com/watch?v=EWj60p8esD0)|If curious, mentioned in other videos; will cover later. |15:42|
+|[Debugging with IntelliJ](http://blog.javafortesters.com/2016/07/how-to-debug-java-with-intellij.html)|Describing how one uses the debugger in IntelliJ||
+|[Smartphone App Store](https://www.google.hu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwicjbnV_tTPAhVBDsAKHfvyBjsQFggxMAQ&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.sololearn.java%26hl%3Den&usg=AFQjCNFNXrlHnGw_HpQSbCy7h6QrdCiwxw&sig2=ZZL9MFAHIdpxd5cgomvf8Q)|Consider a smartphone app for practicing on the go (Sololearn Java)||
 
 ## Assignment Review 
-- Loop printing out prime numbers from 2 to 100
 
-## Topics
+###  Previous assignment
+- Loop printing out prime numbers from 2 to 100
 
 ### Add in a library
 *There's a useful set of routines that exists outside of the main Java built-in statements which, as we are covering arrays, we'd like to loop in.*
@@ -62,7 +63,7 @@ Lastly we show how you can extend a program to use external code (or objects &am
 - Arrays.toString(*array variable*) __NOT__ *array variable*.toString as *Arrays* is a library function
 - type in an array (i.e. Array&lt;type&gt;) 
 
-*jagged arrays*
+Optional: *jagged arrays*
 
 ### Functions
 - Purpose
@@ -80,7 +81,7 @@ Lastly we show how you can extend a program to use external code (or objects &am
 - How to read the parameter(s) passed
 
 ### Debugging - Introduction
-- Setting a break point-  How to walk through the program
+- Setting a break point and *walk through* the program
 - Inspecting a variable
 
 ### Exceptions (Optional)
@@ -95,20 +96,16 @@ As there are many examples where external libraries are used, we will briefly no
 
 ## Workshop/Practice 
 
-### Challenge 1
-### Challenge Final
+### Challenge Loops
+Review the loop challenges found at http://www.homeandlearn.co.uk/java/java_for_loops.html
+- What causes loops to terminate?
+- Practice stepping through programs using the debugger and checking on the values of the variables.
+ 
+### Challenge "Descending Order"
 - https://www.codewars.com/kata/descending-order/train/java
 
-## Assignment
-| Link | Comment|
-|:---- |:------ |
-|http://www.homeandlearn.co.uk/java/java_for_loops.html|Loop Exercises|
-|http://blog.javafortesters.com/2016/07/how-to-debug-java-with-intellij.html|Describing how one uses the debugger in IntelliJ|
-
-- Review loops, what causes them to terminate
-- Practice stepping through programs; interogating variables.
 
 # Links
 - [Return to Module Overview](..)
-- [Previous day](../m03d1-expressions-controlflow)
+- [Previous day](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/1-installing-basics)
 - [Next day](../m03d3)
