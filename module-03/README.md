@@ -6,10 +6,10 @@ Become familiar with the typical components of a programming language, using Jav
 __As this is a short week, we spill over into next week and only have 4 days in this module.__
 
 ## Overview of Days in this Module
-- [Java Environment &amp; Basic Constructs](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/1-installing-basics)
-- [Arrays, Functions and Debugging &amp; Exceptions](m03d2-arrays-collections-functions)
-- [ArrayList, LinkedLists, HashMap;  Iterators, Foreach](m03d3)
-- [Stringbuilder, Conversion & Casting; Functional Overloading](m03d4)
+- [1 Java Environment &amp; Basic Constructs](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/1-installing-basics)
+- [2 Arrays, Functions and Debugging &amp; Exceptions](m03d2-arrays-collections-functions)
+- [3 ArrayList, LinkedLists, HashMap;  Iterators, Foreach](m03d3)
+- [4 Stringbuilder, Conversion & Casting; Functional Overloading](m03d4)
 
 ## Knowledge & Skills
 The participants are expected to achieve these competences (knowledge and/or skills) by the end of this module:-
