@@ -9,7 +9,7 @@ __As this is a short week, we spill over into next week and only have 4 days in 
 - [Java Environment &amp; Basic Constructs](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/1-installing-basics)
 - [Basic expressions and Control flow](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/2-expressions-control-flow)
 - [Array, Functions and Debugging](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/3-arrays-collections-functions)
-- Stringbuilder, Conversion & Casting; Functional Overloading
+- [ArrayList, LinkedLists, HashMap;  Iterators, Foreach](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/4-arraylists-foreach)
 
 ## Knowledge & Skills
 The participants are expected to achieve these competences (knowledge and/or skills) by the end of this module:-
