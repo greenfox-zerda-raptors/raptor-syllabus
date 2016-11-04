@@ -2,10 +2,6 @@
  * Created by aze on 2016.10.31..
  */
 
-import com.sun.xml.internal.ws.util.StringUtils;
-
-import java.util.Arrays;
-
 public class Workshop01 {
     static int b;
     public static void main(String[] args) {
@@ -15,13 +11,14 @@ public class Workshop01 {
 
 
         int a = 0;
+        boolean something = true;
 
         if(something)
             a = 5;
         else
             a = 10;
 
-        int a = something ? 5 : 10;
+        int a2 = something ? 5 : 10;
 
 
         int[] bla = new int[]{324,-2,273,4123,2145};
