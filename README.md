@@ -8,7 +8,8 @@ The mentors are Aze, Misi & Eric.
 
 
 ## Important Links
-- [Trello](https://trello.com/zerda1) - site to track project tasks
+- [Assignments Trello Board](https://trello.com/b/YiDdLT1A/raptor-assignments) - site to track project tasks
+- [Lightning talks Trello Board](https://trello.com/b/CEvWombE/raptor-lightning-talks)
 - [Slack](https://greenfox-zerda.slack.com) - to communicate ideas on channels
 - [Github - GreenFox](https://github.com/greenfox-academy) - overall tracking of our course
 - [Github - Zerda - Raptors](https://github.com/greenfox-zerda-raptors)
@@ -22,107 +23,75 @@ The course consists of 3 distinct phases:-
 - Java - learning the core concepts in programming (that can translate to other languages), and then expanding deeper into the facilities and opportunities afforded in the Java environment.
 - Practical Application - applying the knowledge and skills learnt to a full deliverable.
 
-## Module 01 -  Basics (Phase 1)
-*What are the core elements of how software and computers operate and communicate to deliver and capture information.*
+## Week 01 -  Basics (Phase 1)
+- [First website](https://github.com/greenfox-academy/teaching-materials/tree/master/tools-and-coding/first-website)
+- [Command-line, GIT](https://github.com/greenfox-academy/teaching-materials/tree/master/tools-and-coding/command-line)
+- [HTML, CSS](https://github.com/greenfox-academy/teaching-materials/tree/master/tools-and-coding/html-css)
+- [Practical: Create your CV in HTML](https://github.com/greenfox-academy/teaching-materials/tree/master/tools-and-coding/cv)
 
-- Introduction
-- Team building
-- Command-line, GIT
-- HTML, CSS
-- Practice - "Create CV using HTML and CSS"
-
-## Module 02 - Sitebuilding
-*Expand on the HTML, to deliver a more complex experience.*
-- Layout
-- Forms
-- Advanced CSS
-- Build a complex webpage (like Wikipedia article)
+## Week 02 - Sitebuilding
+- [CSS Layout](https://github.com/greenfox-academy/teaching-materials/tree/master/html-css/css-layout)
+- [Forms](https://github.com/greenfox-academy/teaching-materials/tree/master/html-css/forms)
+- [Advanced CSS Colors and styling](https://github.com/greenfox-academy/teaching-materials/tree/master/html-css/advanced-css), [Tables](https://github.com/greenfox-academy/teaching-materials/tree/master/html-css/html-tables), and start the [Project: Wikipedia article](https://github.com/greenfox-academy/teaching-materials/tree/master/html-css/project-wikipedia)
+- [Semantics and Metadata](https://github.com/greenfox-academy/teaching-materials/tree/master/html-css/semantics-metadata)
 
 ## First exam
 - HTML, CSS
 - Basic Sitebuilding
 - Understanding the internet
 
-## Module 03 - Introduction Java Basics (Phase 2)
-* Become familiar with the typical components of a programming language; setting the foundation for further learning. *
-- Turing machine, anatomy of programming; interpreters, compilers
-- The components of the Java world - IDE & program, compile to byte code, linking, running in the JVM
-- Variables, Data Types
-- Arrays - multi-dimensional, jagged
-- Expressions
-- Control Flow - loops (while, do-while, for), statements (if, if-then, if-then-else, elseif), intro to code blocks
-- Strings & StringBuilder
-- Simple I/O - the Scanner class (reading from the prompt (System.in), writing to the prompt (System.out))
-- Collections - ArrayList, LinkedList
-- Functions - parameters, return values, signatures/overloading; main args[], variable scoping
-- Mop up/Revisit - Iterators, foreach, data conversion (Autoboxing, unboxing, casting)
-- Math Libraries, floor, ceiling, conversion
+## Week 03 - Introduction Java Basics (Phase 2)
+- [Installation of the IDE (IntelliJ's IDEA)](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/1-installing-basics) - be able to work
+- [Expressions &amp; Control Flow](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/2-expressions-control-flow) - know what stores data and navigates the program
+- [Arrays &amp; Functions](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/3-arrays-collections-functions) - additional tools for storing results and managing repeated code
 
-## Module 04 - Object Orientation
-*Understanding how to model the world using Objects; and becoming familiar with the tools and advantages of such.*
-- What is OO
-- The benefits of OO - theory behind OO, covering encapsulation, data hiding, polymorphism, inheritance
-- Intentions/Classes - what is a class and how are they derived, their anatomy (methods, properties, scope); creator; this
-- Extensions/Objects - how are they created and used
-- Extending OO - sub-classes, super, polymorphism, abstract and interface, boxing/unboxing
-- Static, Final, Protected & Private
-- Mop up/Revisit - data conversion, Streams, I/O, Scanner in context
-  - Date
-  - Localisation - decimal point, mm/dd/yy vs dd/mm/yy vs ...
+## Week 04 - Continuing Java introduction
+- [ArrayLists &amp; Foreach](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/4-arrylists-foreach) - introduction to Objects and propert
+- [I/O &amp; Exception Handling](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/5-io-exceptions-try-catch-finally) - read and write files and handle unexpected results
+- [Scanner and random](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/6-scanner) - how to transmit and receive complex data
+- [Project Options](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/P-project-options) - the list of projects to be considered for the end of module review.
+
+## Week 05 - Object Orientation
+- [Objects and Classes](https://github.com/greenfox-academy/teaching-materials/tree/master/java-oo/1-objects-and-classes)
+- [Inheritance](https://github.com/greenfox-academy/teaching-materials/tree/master/java-oo/2-packages-and-inheritance)
+- [Polymorphism, Abstracts &amp; Interfaces](https://github.com/greenfox-academy/teaching-materials/tree/master/java-oo/3-abstracts-and-interfaces)
+- [Project](https://github.com/greenfox-academy/teaching-materials/tree/master/java-oo/project)
 
 
-## Module 05 - Consolidating Skills
-*Having covered the core concepts at the heart of Java, solidify with practice dojos and gain experience; at the same time, start to understand how to deliver code by testing and handling issues.*
-- Exceptions
-- Testing (TDD basics) - Karnaugh / Key maps, Assert
-- Annotations
-- Libraries and Dependency management (Maven, Gradle)
-- Project "Todo App" - exercise working through many of the elements learnt thus far
-
-## Module 06 - Approaches - Conventions, Patterns & Frameworks
-* Developing and supporting larger applications demands management and commonly understood tools and approaches.*
-- Overview of Swing and GUI controls
-- Listeners / Events
-- *Tiered* architectures - benefits and anatomy
-- Patterns & Frameworks - conceptual
-- MVC (pattern) and Architecture
-- Project/Workshop: RPG using MVC
-- Practical: Mapping objects
+## Week 06 - Testing & GUI
+- [JUnit](https://github.com/greenfox-academy/teaching-materials/tree/master/java-testing/1-junit)
+- Dojo / Training
+- [Swing Basics](https://github.com/greenfox-academy/teaching-materials/tree/master/java-gui/1-swing-basics)
+- [Swing More](https://github.com/greenfox-academy/teaching-materials/tree/master/java-gui/2-swing-more)
+- [Project](https://github.com/greenfox-academy/teaching-materials/tree/master/java-gui/project)
 
 ## Second Exam
 - Basics of Programming
 - Fundamentals of Java
 
-## Module 07 - Java as a Server
-*Continuing on from the previous Module, we look at a Framework.  We also tie together how Java can be used to serve pages and integrate with HTML.*
-- Java foundation classes
-- Servlets
-- Java Server Pages (JSP) - java web basics with templates, integrating with HTML
-- Templating (view part; how to display data, HTML generation)
-- Mop up/Revisit -  Annotations, Collections, Iterators
-- Project/Workshop: Building a Gallery site using JSP
+## Week 07 - Big Project
+- RPG game
+- days as sprints
+- usage of scrum
+- and a complex project
 
-## Module 08 - Working with Data
-*How to store and work with data.*
-- File I/O - char and binary streams
-- Connecting to a database - JDBC (querying, resetting, mechanics)
-- SQL Basics - DDL vs DML; select, delete, update statements;
-- Alternatives NoSQL, MongoDB
-- Object Repository (ORM) - Hibernate framework
-- More SQL - keys, normalization;  Stored Procedures & Triggers
-- Project/Workshop: Convert Gallery to run using JDBC
+## Week 08 - Data & Build & Libs
+- SQL
+- Gradle, Libs (joda-time)
+- ORMLite
+- Project (TodoApp with DB)
 
-## Module 09 - Spring Part 1
-*Delve into the Spring Framework to better understand how Java can be used to serve pages while strengthening the understand of JDBC, MVC, annotation, etc.*
-- Serialization & marshalling
-- xml parsing and xmlpath
-- json
+## Week 09 - Spring Part 1
+- Intro, Boot, HelloWorld
+- Thymeleaf, Models, Views
+- Beans, Config
+- Database integration
+- Project finish
 
-## Module 10 - Spring Part 2
-- Web container
+## Week 10 - Spring Part 2
 - MVC
-- Generics
-- Aspect-Oriented Programming (AOP)
+- Other patterns (singleton, builder, observer)
+- Project
 
 ## Third Exam
 - Java as backend
