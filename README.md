@@ -41,15 +41,16 @@ The course consists of 3 distinct phases:-
 - Understanding the internet
 
 ## Week 03 - Introduction Java Basics (Phase 2)
-- [Installation of the IDE (IntelliJ's IDEA)](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/1-installing-basics) - be able to work
-- [Expressions &amp; Control Flow](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/2-expressions-control-flow) - know what stores data and navigates the program
-- [Arrays &amp; Functions](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/3-arrays-collections-functions) - additional tools for storing results and managing repeated code
+- [Installation of the IDE (IntelliJ's IDEA)](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/1-installing-basics)
+- [Expressions &amp; Control Flow](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/2-expressions-control-flow)
+- [Arrays &amp; Functions](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/3-arrays-collections-functions)
 
 ## Week 04 - Continuing Java introduction
-- [ArrayLists &amp; Foreach](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/4-arrylists-foreach) - introduction to Objects and propert
-- [I/O &amp; Exception Handling](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/5-io-exceptions-try-catch-finally) - read and write files and handle unexpected results
-- [Scanner and random](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/6-scanner) - how to transmit and receive complex data
-- [Project Options](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/P-project-options) - the list of projects to be considered for the end of module review.
+- [ArrayLists &amp; Foreach](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/4-arrylists-foreach)
+- Dojo / Training
+- [I/O &amp; Exception Handling](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/5-io-exceptions-try-catch-finally)
+- [Scanner and random](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/6-scanner)
+- [Project Options](https://github.com/greenfox-academy/teaching-materials/tree/master/java-basics/P-project-options)
 
 ## Week 05 - Object Orientation
 - [Objects and Classes](https://github.com/greenfox-academy/teaching-materials/tree/master/java-oo/1-objects-and-classes)
