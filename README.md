@@ -70,16 +70,16 @@ The course consists of 3 distinct phases:-
 - Basics of Programming
 - Fundamentals of Java
 
-## Week 07 - Big Project
+## Week 07 - [Big Project](https://github.com/greenfox-academy/teaching-materials/tree/master/scrum-game)
 - RPG game
 - days as sprints
 - usage of scrum
 - and a complex project
 
 ## Week 08 - Data & Build & Libs
-- SQL
-- Gradle, Libs (joda-time)
-- ORMLite
+- [SQL](https://github.com/greenfox-academy/teaching-materials/tree/master/sql-basics/1-plain)
+- [Gradle, Libs (joda-time)](https://github.com/greenfox-academy/teaching-materials/tree/master/java-databuildlibs/2-gradle-libs)
+- [ORMLite](https://github.com/greenfox-academy/teaching-materials/tree/master/java-databuildlibs/3-ormlite)
 - Project (TodoApp with DB)
 
 ## Week 09 - Spring Part 1
