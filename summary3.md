@@ -1,4 +1,4 @@
-# Databuild Competencies
+# Databuild
 ## Gradle
 - gradlew
 - bootRun
@@ -62,7 +62,7 @@
 - Fluent Interfaces
 - Method Chaining
 
-# Spring Competencies
+# Spring
 
   - @Configuration
   - @EnableAutoConfiguration
