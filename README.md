@@ -98,6 +98,8 @@ The course consists of 3 distinct phases:-
 - Java as backend
 - Understanding Frameworks
 - Persistence
+- [Exam Competencies](exam3.md)
+- [Keywords and Summary of Learned materials](summary3.md)
 
 # Team Project (Phase 3)
 *Working in teams, deliver specific projects based upon requirements that will be posted later in the semester.*
