@@ -23,9 +23,6 @@ The student, on their own, is able to:
 - Basic understanding of Gradle build system
 - Use libraries as dependencies
 - Include and call 3rd party libraries in their code
-- Use async structures:
-  - Writing functions that are taking and calling callbacks
-  - Determining the calling order in nested callbacks
 - Use databases:
   - Implement database calls with Java
   - Write a simple SQL query for a single table:
@@ -58,3 +55,8 @@ The student, on their own, is able to:
   - Split bigger functions to smaller ones
   - Separate functionalities to different files
   - Point out code smells
+
+## Optional
+- Use async structures:
+  - Writing functions that are taking and calling callbacks
+  - Determining the calling order in nested callbacks
